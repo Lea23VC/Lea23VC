@@ -6,7 +6,7 @@ I graduated from the Pontificia Universidad Catolica de Valparaiso with a degree
 ### 💼 Professional Profile
 I am a passionate Fullstack Developer with a strong focus on Backend development. 
 
-### 💻 Technologies I Work With
+### 💻 Some Technologies I Work With
 - **Languages**:
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
@@ -35,8 +35,7 @@ I am a passionate Fullstack Developer with a strong focus on Backend development
 ### 🛠 Projects
 I have worked on various projects, mostly under companies or institutions. Notable personal projects include:
 - **[Phantasma](https://phantasma.cl/)**: A Literature and Visual Arts Magazine by students from the University of Chile. I developed the backend, frontend, and infrastructure.
-- **[Laravel Serverless AigisBot](https://github.com/Lea23VC/laravel-serverless-aigisbot)**: A serverless bot made in Laravel using Discord webhooks to mainly return video games through a Discord channel. These video games are stored on my personal Gdrive account, and both the games and the bot are not publicly available.
-
+- **[Laravel Serverless AigisBot](https://github.com/Lea23VC/laravel-serverless-aigisbot)**: A serverless bot made in Laravel using Discord webhooks to mainly return video games through a Discord channel. These video games are stored on my personal Gdrive account, and both the games and the bot are not publicly available. Includes Filament for an admin dashboard where games can be added or updated with boxarts or their platform. It also has an unused GraphQL API.
 
 ### 🌱 Currently Learning
 I am continuously expanding my knowledge and learning new technologies to stay up-to-date with the latest trends in the tech industry.
