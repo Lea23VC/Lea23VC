@@ -9,6 +9,7 @@ I am a passionate Fullstack Developer with a strong focus on Backend development
 ### 💻 Some Technologies I Work With
 - **Languages**:
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
   - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -22,6 +23,8 @@ I am a passionate Fullstack Developer with a strong focus on Backend development
   - ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
   - ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
   - ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
+  - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
 
 - **Databases**:
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
