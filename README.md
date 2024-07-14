@@ -49,6 +49,7 @@ I am continuously expanding my knowledge and learning new technologies to stay u
 - Exploring new hobbies
 
 ---
+![](https://komarev.com/ghpvc/?username=Lea23VC)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-villalobos-50223221b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leandro.villalobos.dx@gmail.com)
